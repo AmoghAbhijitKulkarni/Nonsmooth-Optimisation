@@ -1,2 +1,2 @@
 # Nonsmooth-Optimisation
-Minimising Total Variation , Image Deblurring, and signal processing
+Minimising Total Variation , Image Deblurring, and Signal Processing
